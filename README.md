@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hey there 👋, I'm Chamalka_Lakshan</h1>
 
 <h3 align="center">
 🚀 Builder • 💻 Developer • 🎮 Gamer • ☕ Coffee-Powered Problem Solver
