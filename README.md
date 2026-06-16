@@ -14,7 +14,7 @@
 
 ```javascript
 const developer = {
-    name: "YOUR_NAME",
+    name: "CHAMALKA_LAKSHAN",
     location: "Sri Lanka 🇱🇰",
     code: ["JavaScript", "Python", "Java"],
     interests: ["AI", "Web Development", "Open Source"],
